@@ -1,0 +1,23 @@
+{
+  "name": "kakaobob_lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tre2man/Kakaobob_lambda.git"
+  },
+  "author": "tre2man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tre2man/Kakaobob_lambda/issues"
+  },
+  "homepage": "https://github.com/tre2man/Kakaobob_lambda#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "firebase-admin": "^10.2.0"
+  }
+}
